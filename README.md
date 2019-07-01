@@ -4,6 +4,7 @@ Some examples are borrowed from the libraries below and adapted to work with Mic
 The Adafruit_Microbit library only supports V1.3 hardware (to this date: July 1, 2019)
 
 Dependencies:
+
 https://github.com/adafruit/Adafruit_Microbit
 
 https://github.com/SodaqMoja/Sodaq_LSM303AGR
